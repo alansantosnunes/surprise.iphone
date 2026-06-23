@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Surpresa 💍",
+    "slug": "surprise-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FF6EB4"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.surpresa.gatinha"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF6EB4"
+      },
+      "package": "com.surpresa.gatinha"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
